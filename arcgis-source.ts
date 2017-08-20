@@ -19,17 +19,18 @@ deferFetch('https://opendata.arcgis.com/api/v2/datasets?page[number]=1&page[size
   .do(() => bar.tick())
   .mergeMap((result) => Observable.of(...result.data))
   .reduce((sources, dataset) => {
-    let updated = new Date(dataset.updatedAt);
+    let attr = dataset.attributes;
+    let updated = new Date(attr.updatedAt);
 
-    if (sources[dataset.source]) {
-      sources[dataset.source].dataset = sources[dataset.source].dataset + 1;
+    if (sources[attr.source]) {
+      sources[attr.source].datasets = sources[attr.source].datasets + 1;
 
-      if (sources[dataset.source].updated < updated) {
-        sources[dataset.source].updated = updated;
+      if (sources[attr.source].updated < updated) {
+        sources[attr.source].updated = updated;
       }
     } else {
-      sources[dataset.source] = {
-        name: dataset.source,
+      sources[attr.source] = {
+        name: attr.source.trim(),
         datasets: 1,
         updated
       };

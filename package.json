@@ -1,0 +1,30 @@
+{
+  "name": "portal-list",
+  "version": "0.0.1",
+  "description": "scripts to produce portal lists from various sources",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SingularData/portal-list.git"
+  },
+  "author": "Haoliang Yu <haholiang.yu@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SingularData/portal-list/issues"
+  },
+  "homepage": "https://github.com/SingularData/portal-list#readme",
+  "dependencies": {
+    "@types/node-fetch": "^1.6.7",
+    "@types/progress": "^2.0.0",
+    "node-fetch": "^1.7.2",
+    "progress": "^2.0.0",
+    "rx-to-csv": "^0.1.4",
+    "rxjs": "^5.4.3"
+  },
+  "devDependencies": {
+    "typescript": "^2.4.2"
+  }
+}

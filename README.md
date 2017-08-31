@@ -32,7 +32,25 @@ a script to list all data portals at [Socrata](https://socrata.com/) and informa
 run the script with
 
 ``` bash
-ts-node socrata-portals.ts
+ts-node socrata.ts
 ```
 
 a csv file will be generated at `result/socrata-portals.csv`.
+
+### opendatasoft.ts
+
+a script to list all data portals at [OpenDataSoft](https://www.opendatasoft.com/) and information:
+
+  * name
+  * url
+  * total number of datasets
+  * updated
+
+run the script with
+
+``` bash
+ts-node opendatasoft.ts
+```
+
+a csv file will be generated at `result/opendatasoft-portals.csv`.
+

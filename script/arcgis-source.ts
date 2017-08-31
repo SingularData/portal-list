@@ -1,5 +1,5 @@
 import { Observable } from 'rxjs';
-import { deferFetch } from './core';
+import { deferFetch } from '../core';
 import 'rx-to-csv';
 
 const ProgressBar = require('progress');
@@ -30,7 +30,7 @@ deferFetch('https://opendata.arcgis.com/api/v2/datasets?page[number]=1&page[size
       }
     } else {
       sources[attr.source] = {
-        name: attr.source.trim(),
+        name: (attr.source || '').trim(),
         datasets: 1,
         updated
       };
@@ -51,7 +51,7 @@ deferFetch('https://opendata.arcgis.com/api/v2/datasets?page[number]=1&page[size
     source.updated = `${source.updated.getFullYear()}-${source.updated.getMonth() + 1}-${source.updated.getDate()}`;
     return source;
   })
-  .toCSV('result/arcgis-sources.csv', ['name', 'datasets', 'updated'])
+  .toCSV('../result/arcgis-sources.csv', ['name', 'datasets', 'updated'])
   .subscribe(
     () => {},
     (err) => console.error(err),

@@ -1,276 +1,313 @@
-url,datasets
-2014bonds.cityofws.org,4
-amopen.amo.on.ca,69
-bchi.bigcitieshealth.org,84
-bea.data.commerce.gov,3
-bis.data.commerce.gov,2
-brigades.opendatanetwork.com,499
-bronx.lehman.cuny.edu,751
-bythenumbers.sco.ca.gov,138
-census.data.commerce.gov,212
-chhs.data.ca.gov,488
-chronicdata.cdc.gov,396
-churned-data.awcnet.org,99
-cip.cityofnovi.org,7
-controllerdata.lacity.org,1000
-dashboard.alexandriava.gov,371
-dashboard.edmonton.ca,285
-dashboard.hawaii.gov,945
-dashboard.plano.gov,112
-dashboard.slco.org,61
-data.acgov.org,270
-data.albanyny.gov,17
-data.auburnwa.gov,56
-data.austintexas.gov,1727
-data.baltimorecity.gov,2203
-data.brla.gov,145
-data.burlingtonvt.gov,74
-data.calgary.ca,363
-data.cambridgema.gov,208
-data.cdc.gov,256
-data.cese.nsw.gov.au,142
-data.chattlibrary.org,391
-data.cic.mx,100
-data.cincinnati-oh.gov,235
-data.cityofberkeley.info,57
-data.cityofboston.gov,147
-data.cityofchicago.org,1170
-data.cityofevanston.org,161
-data.cityofgainesville.org,264
-data.cityofgp.com,83
-data.cityofmadison.com,153
-data.cityofnewyork.us,11314
-data.cityoforlando.net,33
-data.cityoftacoma.org,199
-data.cityofwestsacramento.org,69
-data.cms.gov,557
-data.code4sa.org,82
-data.colorado.gov,1435
-data.commerce.gov,44
-data.communityvitalsigns.org,105
-data.consumerfinance.gov,34
-data.countyofriverside.us,43
-data.cstx.gov,43
-data.ct.gov,671
-data.culvercity.org,50
-data.datamontana.us,106
-data.dcpcsb.org,177
-data.debtwatch.treasurer.ca.gov,141
-data.delaware.gov,210
-data.detroitmi.gov,160
-data.douglas.co.us,94
-data.edd.ca.gov,399
-data.edmonton.ca,1167
-data.energystar.gov,99
-data.exim.gov,3
-data.fortworthtexas.gov,12
-data.ftb.ca.gov,64
-data.gates.org,2
-data.govloop.com,145
-data.greensboro-nc.gov,41
-data.hampton.gov,25
-data.hartford.gov,172
-data.hawaii.gov,1683
-data.healthcare.gov,224
-data.honolulu.gov,177
-data.illinois.gov,676
-data.imls.gov,82
-data.iowa.gov,1262
-data.jacksonms.gov,87
-data.kcmo.org,5155
-data.kingcounty.gov,1097
-data.kray.com,0
-data.lacity.org,485
-data.lacounty.gov,371
-data.lcb.wa.gov,36
-data.littlerock.gov,51
-data.livewellsd.org,374
-data.macoupincountyil.gov,39
-data.maine.gov,39
-data.map.uncdf.org,270
-data.marincounty.org,75
-data.maryland.gov,1665
-data.mass.gov,69
-data.medicaid.gov,2079
-data.medicare.gov,137
-data.melbourne.vic.gov.au,152
-data.menlopark.org,21
-data.michigan.gov,145
-data.mo.gov,251
-data.monroecounty-fl.gov,3
-data.montgomeryal.gov,65
-data.montgomerycountymd.gov,773
-data.montgomeryschoolsmd.org,154
-data.muni.org,368
-data.naperville.il.us,134
-data.nasa.gov,31500
-data.nashville.gov,112
-data.nationalservice.gov,664
-data.navigationdatacenter.us,30
-data.nj.gov,336
-data.nlc.org,139
-data.nola.gov,604
-data.novascotia.ca,515
-data.ny.gov,1052
-data.oaklandnet.com,392
-data.oce.gov.pr,56
-data.opendatanetwork.com,309
-data.orcities.org,50
-data.oregon.gov,1827
-data.oxnard.org,27
-data.pa.gov,47
-data.permits.performance.gov,9
-data.policefoundation.org,66
-data.pr.gov,183
-data.princegeorgescountymd.gov,83
-data.providenceri.gov,203
-data.qac.org,49
-data.raleighnc.gov,446
-data.readingpa.gov,59
-data.redmond.gov,75
-data.results.wa.gov,1400
-data.richmondgov.com,63
-data.roseville.ca.us,39
-data.rutlandcitypolice.com,3
-data.safest.org,13
-data.seattle.gov,3004
-data.sfgov.org,1003
-data.smcgov.org,1104
-data.smgov.net,97
-data.somervillema.gov,50
-data.sonomacounty.ca.gov,139
-data.srcity.org,172
-data.strathcona.ca,275
-data.sunlightlabs.com,416
-data.sunshinecoast.qld.gov.au,110
-data.sustainablesm.org,155
-data.texas.gov,613
-data.tol.ca,119
-data.tompsc.com,41
-data.topeka.org,432
-data.transportation.gov,47
-data.tuscaloosa.com,10
-data.urbanaillinois.us,37
-data.vbgov.com,34
-data.vermont.gov,164
-data.vta.org,28
-data.wa.gov,1630
-data.waterpointdata.org,55
-data.weho.org,47
-data.winnipeg.ca,487
-datacatalog.cookcountyil.gov,508
-datapoints.dallascityhall.com,310
-datosabiertos.pueblacapital.gob.mx,61
-eda.data.commerce.gov,1
-electionsdata.kingcounty.gov,497
-esa.data.commerce.gov,0
-finances.worldbank.org,3011
-flintactiontracker.michigan.gov,93
-greengov.data.ca.gov,85
-hartstat.hartford.gov,0
-health.data.ny.gov,545
-healthdata.nj.gov,270
-hsmp-data.aspe.hhs.gov,447
-idp.nz,87
-impact.glispa.org,19
-impact.stlouisco.com,128
-information.stpaul.gov,114
-insights.cincinnati-oh.gov,67
-ita.data.commerce.gov,31
-kcstat.kcmo.org,293
-mbda.data.commerce.gov,0
-midashboard.michigan.gov,482
-mydata.iadb.org,173
-nist.data.commerce.gov,9
-noaa.data.commerce.gov,18
-ntia.data.commerce.gov,31
-ntis.data.commerce.gov,1
-opencity.fcgov.com,55
-opendata.ci.richmond.ca.us,76
-opendata.cityofhenderson.com,35
-opendata.cityofmesquite.com,5
-opendata.fcc.gov,56
-opendata.howardcountymd.gov,154
-opendata.lasvegasnevada.gov,251
-opendata.miamidade.gov,34
-opendata.ramseycounty.us,146
-opendata.utah.gov,3391
-openpaymentsdata.cms.gov,16
-openperformance.ramseycounty.us,47
-outcomestat.baltimorecity.gov,148
-performance.action.act.gov.au,38
-performance.adcogov.org,18
-performance.austintexas.gov,1
-performance.carson.org,16
-performance.chattanooga.gov,134
-performance.ci.janesville.wi.us,93
-performance.cityofdavenportiowa.com,80
-performance.cityofrc.us,104
-performance.cookcountyil.gov,212
-performance.danvilleva.gov,15
-performance.franklintn.gov,134
-performance.fultoncountyga.gov,323
-performance.glendaleca.gov,449
-performance.princegeorgescountymd.gov,240
-performance.providenceri.gov,44
-performance.sandiegocounty.gov,0
-performance.seattle.gov,720
-performance.smcgov.org,1788
-performance.topeka.org,17
-performance.vbgov.com,122
-performance.williamsburgva.gov,127
-policeview.johnscreekga.gov,73
-pqrs.cms.gov,221
-reportcard.santamonicayouth.net,148
-reports.awcnet.org,1
-reports.data.imls.gov,0
-reports.data.montgomerycountymd.gov,5185
-researchdata.nist.gov,20
-results.livewellsd.org,103
-sa-data.idra.org,48
-ship.dfs.ny.gov,0
-stat.cityofgainesville.org,776
-stats.cityofcarrollton.com,32
-sustainability.metroairports.org,33
-tni.princegeorgescountymd.gov,84
-transparency.michigan.gov,252
-uspto.data.commerce.gov,47
-www.dallasopendata.com,1591
-www.data.act.gov.au,544
-www.datos.gov.co,6744
-www.datossct.gob.mx,137
-www.forsythfutures.org,351
-www.indicadores.pr,57
-www.mdchildhungerpartnership.org,17
-www.metrochicagodata.org,3
-www.natsdatasct.gob.mx,201
-www.opendatanyc.com,6
-www.pivcide.pr,70
-www.sudandata.org,283
-www.thedatazone.ca,44
-analisi.transparenciacatalunya.cat,584
-cohesiondata.ec.europa.eu,557
-dadesobertes.grupsagessa.cat,678
-dashboard.swindon.gov.uk,247
-data.bathhacked.org,316
-data.cdp.net,193
-data.collideosco.pe,2
-data.sheffield.gov.uk,355
-data.theaudienceagency.org,40
-gavaobert.gavaciutat.cat,161
-observa.gijon.es,777
-opendata.bristol.gov.uk,362
-opendata.camden.gov.uk,550
-opendata.cheshireeast.gov.uk,162
-opendata.granollers.cat,237
-opendata.l-h.cat,47
-opendata.rdw.nl,666
-opendata.rubi.cat,63
-opendata.terrassa.cat,173
-performance.surreycc.gov.uk,232
-performance.westsussex.gov.uk,182
-portaltransparencia.diputaciolleida.cat,45
-reports.cdp.net,2
-www.dati.friuliveneziagiulia.it,298
-www.dati.lombardia.it,3088
-www2.oxopendata.uk,75
+url,name,datasets
+churned-data.awcnet.org,"churned-data.awcnet.org",99
+data.kray.com,"data.kray.com",0
+data.sunlightlabs.com,"data.sunlightlabs.com",416
+hsmp-data.aspe.hhs.gov,"hsmp-data.aspe.hhs.gov",447
+reports.awcnet.org,"reports.awcnet.org",1
+data.collideosco.pe,"data.collideosco.pe",2
+data.illinois.gov,"Welcome - data.illinois.gov",676
+chhs.data.ca.gov,"Welcome - California Health and Human Services Open Data Portal",488
+data.cese.nsw.gov.au,"NSW Education Datahub |",142
+data.mass.gov,"Massachusetts Document Repository",69
+greengov.data.ca.gov,"data.ca.gov",85
+performance.austintexas.gov,"Performance ATX",1
+opendata.fcc.gov,"Consumer Complaint Data Center | Federal Communications Commission",56
+data.cityofnewyork.us,"NYC Open Data - NYC Open Data WP Engine",11303
+reportcard.santamonicayouth.net,"santamonicayouth.net - This website is for sale! - santamonicayouth Resources and Information.",148
+data.sfgov.org,"DataSF | San Francisco Open Data",1003
+data.gates.org,"gates.org - This website is for sale! - Gates Resources and Information.",2
+insights.cincinnati-oh.gov,"CincyInsights",68
+bchi.bigcitieshealth.org,"BCHC Data Platform",84
+www.mdchildhungerpartnership.org,"The Partnership to End Childhood Hunger in Maryland | No Kid Hungry",17
+openpaymentsdata.cms.gov,"Open Payments Data - CMS | OpenPaymentsData.CMS.gov",16
+brigades.opendatanetwork.com,"Brigade Open Data Sharing Platform | Socrata | Brigade Open Data Sharing Platform | Socrata",499
+data.baltimorecity.gov,"Baltimore | Open Data | Open Baltimore | City of Baltimore's Open Data Catalog",2205
+amopen.amo.on.ca,"AMOpen | AMOpen
+",69
+dashboard.plano.gov,"City of Plano Dashboard | Open Data | Socrata",112
+data.cityofchicago.org,"City of Chicago | Data Portal | City of Chicago | Data Portal",1170
+data.cms.gov,"Data.CMS.gov | Data.CMS.gov",568
+data.cityofevanston.org,"City of Evanston, IL Open Data | City of Evanston, IL Open Data",203
+data.cityoftacoma.org,"Open Data Portal | Results 253 - City of Tacoma",203
+data.cityofgainesville.org,"Open Data Portal | Open Data Portal
+",265
+data.cityofgp.com,"City of Grande Prairie | Open Data | Open Data | City of Grande Prairie",83
+data.countyofriverside.us,"Riverside County Open Data | Riverside County Open Data",43
+data.energystar.gov,"ENERGY STAR Certified Products | EPA ENERGY STAR | ENERGY STAR",99
+data.communityvitalsigns.org,"San Bernardino | Community Vital Signs | San Bernardino | Community Vital Signs",105
+data.delaware.gov,"Delaware Data - Delaware.gov: Official Website of the State of Delaware | Delaware Open Data Portal",210
+data.lcb.wa.gov,"Washington State Liquor and Cannabis Board | Washington State Liquor and Cannabis Board Data Portal (WSLCB)",36
+data.medicaid.gov,"Data.Medicaid.gov",2083
+data.maine.gov,"Maine.gov | Open Data | Open Data Portal",39
+data.muni.org,"Anchorage Open Data | Anchorage Open Data",42
+data.naperville.il.us,"Open Data Portal | Naperville Open Performance",132
+data.nationalservice.gov,"CNCS Open Data | CNCS Open Data",665
+data.monroecounty-fl.gov,"Monroe County FL Open Data Portal | Open Data Portal",3
+data.cdc.gov,"Data | Centers for Disease Control and Prevention | Data | Centers for Disease Control and Prevention",258
+data.navigationdatacenter.us,"Open Data Portal | U.S. Army Corps of Engineers Data Platform",30
+data.pa.gov,"data.pa.gov | PA Open Data Portal",47
+data.permits.performance.gov,"Open Data Portal | FPISC Reports | Permitting Data Platform",9
+data.oce.gov.pr,"OCEPR - Open Data | OCE Open Data",56
+data.seattle.gov,"City of Seattle Open Data portal",3007
+data.providenceri.gov,"Open Data | City of Providence | Open Data | City of Providence",203
+data.nj.gov,"Open Data Portal | NJOIT Open Data Center",336
+data.roseville.ca.us,"Roseville | Open Data | Open Data | City of Roseville",39
+data.smgov.net,"Santa Monica | Open Data | Open Data - City of Santa Monica",97
+data.safest.org,"Safe Streets | Open Data Portal | Safe Streets Data",13
+data.texas.gov,"State of Texas | Open Data Portal | State of Texas Open Data Portal",615
+data.winnipeg.ca,"Open Data Portal | Open Data | City of Winnipeg",488
+data.topeka.org,"Topeka Open Data | Topeka Open Data",432
+data.tuscaloosa.com,"Open Data Tuscaloosa | City of Tuscaloosa Open Data",10
+data.urbanaillinois.us,"Urbana, IL - Open Data Portal | Urbana, IL - Open Data Portal
+",37
+esa.data.commerce.gov,"Open Data | Socrata",0
+data.weho.org,"Open Data | West Hollywood | Open Data | City of West Hollywood",47
+data.srcity.org,"Open Data Portal | Rally - Open Data Portal
+",172
+idp.nz,"Internet Data Portal | Open Data",87
+data.vbgov.com,"Open Data | Open Data",34
+opendata.cityofmesquite.com,"Mesquite Texas | Open Data Portal | Mesquite Texas | Open Data Portal
+",5
+opendata.ramseycounty.us,"Open Data Portal | Open Data | Ramsey County",147
+mbda.data.commerce.gov,"Open Data | Socrata",0
+openperformance.ramseycounty.us,"Open Performance | Ramsey County",47
+data.calgary.ca,"Open Calgary | Open Calgary",364
+performance.providenceri.gov,"Open Data Portal | Open Data Portal
+",44
+performance.sandiegocounty.gov,"San Diego County Open Performance | San Diego County Open Performance",0
+performance.topeka.org,"Performance | Topeka | Performance | Topeka",17
+performance.cookcountyil.gov,"Cook County | STAR Performance Management | Cook County | STAR Performance Management",212
+performance.danvilleva.gov,"City of Danville Dashboard | City of Danville Dashboard",15
+pqrs.cms.gov,"PQRS | Open Data | Socrata",221
+tni.princegeorgescountymd.gov,"Transforming Neighborhoods Initiative | Prince George's County | Transforming Neighborhoods Initiative",84
+bronx.lehman.cuny.edu,"Lehman College Community Connect: Bronx Information Portal | Bronx Information Portal | Lehman College",751
+dashboard.alexandriava.gov,"Performance Dashboard | City of Alexandria, VA | Dashboard | City of Alexandria",371
+ship.dfs.ny.gov,"NYS-DFS | SHIP Data
+",0
+dashboard.hawaii.gov,"Hawaii - Open Data Portal | dashboard.hawaii.gov",945
+stat.cityofgainesville.org,"statGNV | Gainesville Performance Dashboard | stataGNV",777
+data.auburnwa.gov,"Auburn Open Data | Auburn Open Data",56
+data.chattlibrary.org,"Chattanooga Open Data Portal | Chattanooga Open Data Portal",391
+data.cityoforlando.net,"City of Orlando Open Data Portal | City of Orlando Open Data Portal",33
+data.code4sa.org,"Code for South Africa | Open Data | Open Data | Code for South Africa",82
+data.cstx.gov,"College Station - Open Data | CSTX Open Data",43
+data.cityofberkeley.info,"City of Berkeley - Open Data Portal | Open Data | City of Berkeley",57
+data.edmonton.ca,"Edmonton - Open Data Portal | Edmonton - Open Data Portal
+",1168
+data.ftb.ca.gov,"Franchise Tax Board Open Data Portal | Franchise Tax Board Open Data Portal",64
+data.hampton.gov,"Hampton | Open Data | Open Data | Hampton, VA",27
+data.greensboro-nc.gov,"Greensboro Open Data | Open Gate City | City of Greensboro Open Data",41
+www.dallasopendata.com,"Dallas OpenData | Dallas OpenData",1593
+data.medicare.gov,"Data.Medicare.gov | Data.Medicare.Gov",137
+data.honolulu.gov,"Honolulu - Open Data Portal | Honolulu - Open Data Portal",177
+www.data.act.gov.au,"ACT | Open Data | Open Data Portal
+",544
+data.littlerock.gov,"Little Rock Open Data Portal | Little Rock - Open Data Portal
+",51
+data.macoupincountyil.gov,"Macoupin Open Data Portal | Open Data | Macoupin County",39
+data.marincounty.org,"County of Marin - Open Data Portal | County of Marin Open Data Portal",75
+data.michigan.gov,"Michigan | Open Data | Michigan | Open Data",145
+data.menlopark.org,"Menlo Park - Open Data Portal | Open Data | Socrata",21
+data.montgomeryschoolsmd.org,"MCPS - Open Data Portal | MCPS - Open Data Portal",156
+data.montgomeryal.gov,"Open Data Montgomery | Open Data Montgomery, AL",65
+data.novascotia.ca,"Nova Scotia Government - Open Data Portal | Open Data | Nova Scotia",515
+data.orcities.org,"LOC Open Data Portal | Open Data Portal
+",50
+data.raleighnc.gov,"Raleigh | Open Data | City of Raleigh | Open Data",447
+data.policefoundation.org,"Police Foundation - Open Data Portal | Police Foundation Open Data",66
+data.readingpa.gov,"Open Reading | Open Data Reading",59
+data.rutlandcitypolice.com,"Open Data | Rutland City Police Department | Open Data | Socrata",3
+data.qac.org,"Queen Anne's County - Open Data | Open Data Portal
+",49
+data.nashville.gov,"Nashville | Open Data | Open Data Portal
+",112
+data.sonomacounty.ca.gov,"County of Sonoma | Open Data | Open Data | Sonoma County",139
+data.tol.ca,"Township of Langley | Open Data Portal | Open Data | Township of Langley",119
+data.wa.gov,"Data.WA | State of Washington Open Data Platform | Data.WA | State of Washington",1631
+data.strathcona.ca,"Strathcona County Open Data | Strathcona County Open Data",275
+data.smcgov.org,"San Mateo | Open Data | Open San Mateo County",1114
+eda.data.commerce.gov,"Open Data | Socrata",1
+data.waterpointdata.org,"Water Point Data Exchange - Data | WPDx |  The Water Point Data Exchange is the global platform for sharing water point data",55
+data.transportation.gov,"Department of Transportation - Open Data Portal | Department of Transportation - Data Portal",47
+information.stpaul.gov,"The City of Saint Paul's Open Data Portal | Open Data | St Paul",114
+hartstat.hartford.gov,"HartStat | City of Hartford | HartStat | City of Hartford",0
+opendata.cityofhenderson.com,"Henderson Open Data | Open Data | City of Henderson",36
+ntis.data.commerce.gov,"Open Data | Socrata",1
+opencity.fcgov.com,"Rally - Open Data Portal | OpenCity Fort Collins",55
+opendata.ci.richmond.ca.us,"Richmond Open Data | Richmond Open Data
+",76
+opendata.howardcountymd.gov,"Howard County - Open Data Portal | Open Data Portal
+",154
+kcstat.kcmo.org,"Dashboard | KCStat | Kansas City, MO",293
+opendata.miamidade.gov,"Miami-Dade County - Open Data Portal | Miami-Dade County - Open Data Portal",34
+performance.action.act.gov.au,"ACTION ACT Performance Dashboard | ACTION ACT Performance Dashboard",38
+performance.smcgov.org,"San Mateo Performance Dashboards | San Mateo County Performance",1803
+data.results.wa.gov,"Data.Washington | Washington | Results Washington | data.results.wa.gov",1403
+performance.fultoncountyga.gov,"Fulton Performance | Fulton Performance",327
+performance.cityofrc.us,"City of Rancho Cucamonga Gov Stat | City of Rancho Cucamonga Gov Stat",104
+www.thedatazone.ca,"datazONE | PVSC | DatazONE |",44
+www.pivcide.pr,"Validación – Incentivos | Validación – Incentivos",70
+data.austintexas.gov,"Open Data | City of Austin Texas | Open Data | City of Austin Texas",1734
+policeview.johnscreekga.gov,"Johns Creek Police Department | Performance Management | Johns Creek Police Department | Performance Management
+",73
+cohesiondata.ec.europa.eu,"Open Data Portal for the European Structural Investment Funds - European Commission | Socrata",557
+data.burlingtonvt.gov,"Burlington | Open Data | Open Data | City of Burlington",74
+transparency.michigan.gov,"MI Transparency - State Expenditures | MI Transparency - State Expenditures",252
+data.colorado.gov,"Colorado Information Marketplace | Colorado Information Marketplace | data.colorado.gov",1439
+data.douglas.co.us,"Open Data Douglas County | Open Data Portal
+",94
+sa-data.idra.org,"San Antonio Connects | San Antonio Connects",48
+sustainability.metroairports.org,"MAC Sustainability | Sustainability - Metro Airports",34
+data.iowa.gov,"data.iowa.gov | data.iowa.gov",1267
+data.jacksonms.gov,"Open Data | City of Jackson | Jackson Open Data",87
+data.lacounty.gov,"LAC Open Data | LAC Open Data
+",372
+data.livewellsd.org,"San Diego Live Well Data Access Portal | Open Data | Socrata",374
+data.nasa.gov,"NASA | Open Data | NASA Open Data Portal",31500
+data.oaklandnet.com,"City of Oakland Open Data Portal | Open Data Portal
+",392
+data.sustainablesm.org,"Santa Monica Sustainable City Plan | Santa Monica Sustainable City",155
+data.tompsc.com,"Mount Pleasant, SC | eMPower | Mount Pleasant, SC | eMPower
+",41
+impact.stlouisco.com,"Impact STLCO | Rally - Open Data Portal
+",128
+opendata.lasvegasnevada.gov,"Las Vegas | Open Data | Las Vegas | OpenData",251
+performance.adcogov.org,"Adams County Performance | Adams County Performance
+",18
+outcomestat.baltimorecity.gov,"OutcomeStat | Baltimore City | OutcomeStat | Baltimore City
+",148
+performance.princegeorgescountymd.gov,"CountyStat | Prince George's CountyStat | CountyStat | Prince George's County",240
+performance.vbgov.com,"Open Performance | Open Performance",122
+2014bonds.cityofws.org,"2014 Bond Tracker | Open Data | Socrata",4
+bis.data.commerce.gov,"Open Data | Socrata",2
+cip.cityofnovi.org,"City of Novi CIP | City of Novi CIP
+",7
+dashboard.edmonton.ca,"Edmonton - Open Performance Portal | City of Edmonton Citizen Dashboard
+",285
+dashboard.slco.org,"Salt Lake County Metrostat",61
+www.natsdatasct.gob.mx,"North American Transportation Statistics | NATS | Open Data | NATS
+",201
+data.cic.mx,"CIC | Open Data | Open Data | City of Monterrey CIC",100
+data.commerce.gov,"U.S. Department of Commerce - Data Hub | Department of Commerce Data Hub",44
+data.culvercity.org,"Culver | Open Data | Open Data | City of Culver City",50
+data.ct.gov,"Connecticut | Open Data | Open Data - State of Connecticut",674
+data.dcpcsb.org,"DC PCSB | Data Portal | DC PCSB | Data Portal",177
+data.edd.ca.gov,"EDD Data Library | EDD Data Library",399
+data.fortworthtexas.gov,"Fort Worth - Open Data Portal | Open Data Portal
+",12
+reports.data.imls.gov,"IMLS Reports Home | IMLS Reports Home",0
+data.melbourne.vic.gov.au,"City of Melbourne - Open Data Portal | Open Data | Socrata",154
+data.montgomerycountymd.gov,"Montgomery County Data | Open Data Portal",772
+data.nlc.org,"National League of Cities - Open Data Portal | Open Data | Socrata",139
+data.pr.gov,"Puerto Rico Government Open Data Portal | Puerto Rico Government Open Data Portal",183
+data.princegeorgescountymd.gov,"OpenPGC | Open Data | Open Data | Socrata",83
+data.richmondgov.com,"Open Data Portal | City of Richmond, Virginia | Open Data Portal | City of Richmond, Virginia",63
+data.sunshinecoast.qld.gov.au,"Sunshine Coast Council Open Data | Data | Sunshine Coast Council",110
+data.vermont.gov,"Vermont | Open Data | Open Data | State of Vermont",164
+datapoints.dallascityhall.com,"Dallas Data Points | Open Performance | Dallas, TX",310
+data.oregon.gov,"Oregon | Open Data | Oregon transparency",1830
+impact.glispa.org,"GLISPA Impact Dashboard | Open Data | Socrata",19
+data.vta.org,"VTA - Open Data Portal | Open Data | VTA",28
+midashboard.michigan.gov,"Michigan - Open Performance Portal | Michigan - Open Performance",482
+performance.franklintn.gov,"Government Financial Reports App | Government Financial Reports App",134
+performance.ci.janesville.wi.us,"Park Place Performs! - City of Janesville | Park Place Performs! - City of Janesville",93
+performance.carson.org,"Performance Carson City Dashboard | Performance Carson City Dashboard",16
+reports.data.montgomerycountymd.gov,"Montgomery County | GovStat | Montgomery County MD",5185
+www.sudandata.org,"Sudan Evidence Base Programme | Open Data Portal
+",283
+www.datossct.gob.mx,"SCT | Datos Abiertos | Open Data | Socrata",137
+performance.chattanooga.gov,"ChattaData | ChattaData | City of Chattanooga, TN",134
+stats.cityofcarrollton.com,"Carrollton - Open Data Portal | Carrollton - Open Data Portal",32
+performance.glendaleca.gov,"Government Financial Reports App | Government Financial Reports App",449
+opendata.utah.gov,"State of Utah - Open Data Portal | Open Data | Socrata",3391
+data.sheffield.gov.uk,"Sheffield | Open Data | Sheffield | Open Data",355
+performance.seattle.gov,"City of Seattle - Open Performance Portal
+ | City of Seattle - Open Performance Portal
+",720
+performance.cityofdavenportiowa.com,"Open Performance | Davenport | City of Davenport
+",80
+performance.williamsburgva.gov,"Williamsburg Performance Management | Williamsburg Performance Management",127
+results.livewellsd.org,"San Diego Live Well Open Performance Dashboard | San Diego Live Well Open Performance",103
+controllerdata.lacity.org,"Los Angeles | Open Data | Control Panel LA",1000
+data.acgov.org,"Alameda County Open Data | Alameda County Open Data",270
+dashboard.swindon.gov.uk,"Swindon Borough Council | Performance Dashboard | Swindon Borough Council",247
+data.cincinnati-oh.gov,"Cincinnati Open Data Portal | Open Data | Socrata",241
+bea.data.commerce.gov,"Open Data | Socrata",3
+data.hawaii.gov,"Hawaii | Open Data | Data for Hawaii | data.hawaii.gov",1683
+data.kingcounty.gov,"King County | Open Data | King County | Open Data",1097
+data.detroitmi.gov,"Detroit | Open Data Portal | Open Data | Socrata",160
+data.hartford.gov,"Data | City of Hartford | Data | City of Hartford",172
+data.ny.gov,"State of New York | Open Data | Open Data NY",1052
+www.opendatanyc.com,"NYC Comptroller | Open Data | New York City | NYC Data",6
+data.theaudienceagency.org,"Data | The Audience Agency",42
+dadesobertes.grupsagessa.cat,"Grup Sagessa | Dades Obertes | Open Data Portal",678
+data.albanyny.gov,"Albany | Open Data | City of Albany",17
+chronicdata.cdc.gov,"Chronic Disease and Health Promotion Data & Indicators",396
+data.exim.gov,"data.exim.gov",3
+www.datos.gov.co,"Datos Abiertos Colombia | Datos Abiertos Colombia",6879
+flintactiontracker.michigan.gov,"Rally - Open Data Portal | Rally - Open Data Portal
+",93
+www.forsythfutures.org,"Forsyth Futures | Forsyth Futures",354
+data.consumerfinance.gov,"Consumer Complaint Database > Consumer Financial Protection Bureau",34
+opendata.camden.gov.uk,"Camden Council | Open Data | Open Data Portal
+",550
+data.bathhacked.org,"Bath:Hacked data store | Bath: Hacked Data Store",316
+datosabiertos.pueblacapital.gob.mx,"Portal de Datos Abiertos - Municipio de Puebla | Open Data | Socrata",61
+data.cambridgema.gov,"
+	Open Data - City of Cambridge, MA
+",208
+health.data.ny.gov,"State of New York | Open Data Health | Health Data NY",545
+gavaobert.gavaciutat.cat,"Gavà Ciutat | Dades Obertes | Open Data | Gava Ciutat",161
+data.oxnard.org,"Open Data | City of Oxnard",27
+data.redmond.gov,"",75
+data.govloop.com,"Home | GovLoop",145
+mydata.iadb.org,"mydata | IDB | IADB",173
+ntia.data.commerce.gov,"Open Data | Socrata",31
+data.map.uncdf.org,"Homepage - United Nations",270
+census.data.commerce.gov,"Open Data | Socrata",212
+data.cdp.net,"CDP Open Data Portal | CDP Open Data Portal",200
+nist.data.commerce.gov,"Open Data | Socrata",9
+opendata.cheshireeast.gov.uk,"Cheshire East - Open Data Portal | Open Data Portal",162
+electionsdata.kingcounty.gov,"Results matching topic of elections | Page 1 of 46 | King County | Open Data",497
+data.brla.gov,"City of Baton Rouge - Open Data Portal | Open Data BR",145
+ita.data.commerce.gov,"Open Data | Socrata",31
+data.cityofmadison.com,"City of Madison, Wisconsin",153
+data.healthcare.gov,"Data.Healthcare.gov",224
+observa.gijon.es,"Observa Gijón | Observa Gijón
+",777
+data.mo.gov,"data.mo.gov | State of Missouri Data Portal",251
+data.datamontana.us,"Data Portal | State of Montana",111
+data.opendatanetwork.com,"OpenDataNetwork",309
+opendata.rdw.nl,"Open Data | RDW | Open Data | RDW",666
+healthdata.nj.gov,"Socrata | Making Data Social",270
+noaa.data.commerce.gov,"NOAA",18
+data.cityofboston.gov,"City of Boston | Open Data",147
+uspto.data.commerce.gov,"Open Data | Socrata",47
+data.somervillema.gov,"City of Somerville, MA",51
+data.imls.gov,"Data Catalog",82
+datacatalog.cookcountyil.gov,"Cook County Open Data",508
+data.kcmo.org,"Open Data KC | data.kcmo.org",5164
+opendata.granollers.cat,"Granollers Open Data | Open Data Granollers
+",237
+performance.surreycc.gov.uk,"Surrey County Council Open Performance | Surrey County Council Open Performance",232
+performance.westsussex.gov.uk,"West Sussex County Council | West Sussex County Council",182
+data.lacity.org,"DataLA: Information, Insights, and Analysis from the City of Angels | Los Angeles - Open Data Portal",488
+www2.oxopendata.uk,"Oxfordshire Open Data | Oxfordshire Open Data",75
+data.maryland.gov,"Open Data | data.maryland.gov",1656
+data.nola.gov,"Data.NOLA.gov",604
+opendata.rubi.cat,"Rubí Open Data | Open Data Rubí",63
+www.dati.lombardia.it,"Open Data Regione Lombardia | Open Data Regione Lombardia",3084
+reports.cdp.net,"Government Financial Reports App | 2015 Live City Reporting",2
+analisi.transparenciacatalunya.cat,"Dades obertes de Catalunya",584
+www.metrochicagodata.org,"MetroChicagoData",3
+opendata.terrassa.cat,"Open Data – Ajuntament de Terrassa | Open Data - Ajuntament de Terrassa",173
+portaltransparencia.diputaciolleida.cat,"Portal de Transparència – Diputació de Lleida | Portal de Transparència – Diputació de Lleida
+",45
+opendata.bristol.gov.uk,"Open Data Bristol",362
+finances.worldbank.org,"World Bank Group Finances | Data | World Bank Group Finances",3014
+www.dati.friuliveneziagiulia.it,"Regione Autonoma Friuli Venezia Giulia | Open Data | Open Data | Regione Autonoma Friuli Venezia Giulia",298
+researchdata.nist.gov,"NIST Socrata",20
+opendata.l-h.cat,"Ajuntament de L'Hospitalet",47
+www.indicadores.pr,"Indicadores - Puerto Rico",57
+data.debtwatch.treasurer.ca.gov,"California State Treasurer - John Chiang",141
+bythenumbers.sco.ca.gov,"Government Financial Reports - California State Controller’s Office | Open Data | Socrata",138

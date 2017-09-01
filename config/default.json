@@ -1,1 +1,5 @@
-{}
+{
+  "database": {
+    "url": "pg://datarea_admin:1sdf234@localhost:5432/datarea"
+  }
+}

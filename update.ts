@@ -26,7 +26,7 @@ let updateSocrata = getSocrata()
     return portals.indexOf(parsed.hostname) === -1;
   })
   .do((portal) => console.log(`Adding portal ${portal.name}`))
-  .mergeMap((portal) => {
+  .concatMap((portal) => {
     let insertSQL = `
       INSERT INTO portal (name, url, platform_id) VALUES
         ($1::text, $2::text, (SELECT id FROM platform WHERE name = $3::text));
@@ -42,7 +42,7 @@ let updateOpenDataSoft = getOpenDataSoft()
     return portals.indexOf(parsed.hostname) === -1;
   })
   .do((portal) => console.log(`Adding portal ${portal.name}`))
-  .mergeMap((portal) => {
+  .concatMap((portal) => {
     let insertSQL = `
       INSERT INTO portal (name, url, platform_id) VALUES
         ($1::text, $2::text, (SELECT id FROM platform WHERE name = $3::text));

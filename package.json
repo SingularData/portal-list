@@ -4,7 +4,8 @@
   "description": "scripts to produce portal lists from various sources",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "update": "ts-node update.ts",
+    "update-prod": "NODE_ENV=production ts-node update.ts"
   },
   "repository": {
     "type": "git",
@@ -32,6 +33,7 @@
     "rxjs": "^5.4.3"
   },
   "devDependencies": {
+    "ts-node": "^3.3.0",
     "typescript": "^2.4.2"
   }
 }
